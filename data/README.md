@@ -1,0 +1,3 @@
+# Los datos hasta el 15 abril son los que tenemos que usar para entrenar. Deberian incluir los datos del TP1. Con este entrenamos al algoritmo.
+
+# A los datos desde el 15 abril les faltan las postulaciones y los avisos online. Este set tenemos que juntarlo con el de 100k para predecir. Ademas al avisos_detalle hay que agregarle los 338 registros de fiuba_6_avisos_detalle_missing_nivel_laboral. 
