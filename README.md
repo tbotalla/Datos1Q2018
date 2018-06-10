@@ -1,8 +1,15 @@
 # Datos1Q2018
 
+## Link a la competencia en Kaggle
+[https://www.kaggle.com/t/3917603da7044a8ba47cfc606a94e235](https://www.kaggle.com/t/3917603da7044a8ba47cfc606a94e235)
+
 ## Set de datos
 
-[https://drive.google.com/file/d/1K4uRag5nmGtfuvzyJV9RL_73lzsh_iTO](https://drive.google.com/file/d/1K4uRag5nmGtfuvzyJV9RL_73lzsh_iTO)
+[https://drive.google.com/file/d/1K4uRag5nmGtfuvzyJV9RL_73lzsh_iTO/view?usp=sharing](https://drive.google.com/file/d/1K4uRag5nmGtfuvzyJV9RL_73lzsh_iTO/view?usp=sharing)  
+[https://drive.google.com/file/d/1Pudf2TrUn_hfd8Dks4UTTJLf9ZdnGUd_/view?usp=sharing](https://drive.google.com/file/d/1Pudf2TrUn_hfd8Dks4UTTJLf9ZdnGUd_/view?usp=sharing)
+[https://drive.google.com/file/d/1ic7saV_7q-vpaUBkrta83nHRDn2d5qMb/view?usp=sharing](https://drive.google.com/file/d/1ic7saV_7q-vpaUBkrta83nHRDn2d5qMb/view?usp=sharing)
+[https://drive.google.com/file/d/1K7E7gxh6O24BHCGShXKM9cy4cRas7WeF/view?usp=sharing](https://drive.google.com/file/d/1K7E7gxh6O24BHCGShXKM9cy4cRas7WeF/view?usp=sharing)
+(el ultimo es el detalle de los 338 avisos que originalmente faltaban) 
 
 ### Referencias del set de datos
 
