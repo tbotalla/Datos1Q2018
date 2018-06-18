@@ -25,3 +25,6 @@ nivel educativo
  avisos online al 8 de marzo de 2018
 * **fiuba\_6\_avisos_detalle.csv**
  detalle de avisos vistos y postulados tanto offline como online
+
+### Métrica para evaluar
+AUC- Area Under the Receiver Operating Characteristic Curve
